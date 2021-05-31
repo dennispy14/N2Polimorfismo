@@ -6,7 +6,6 @@ public:
 	void calcularArea();
 private:
 	float base;
-	float altura;
-	float area;
+	float altura;	
 };
 

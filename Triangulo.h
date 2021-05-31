@@ -7,6 +7,5 @@ public:
 private:
 	float base;
 	float altura;
-	float area;
 };
 

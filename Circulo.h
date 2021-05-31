@@ -5,8 +5,7 @@ class Circulo: public formageometrica
 public:
 	void calcularArea();
 private:
-	float raio;
-	float area;
+	float raio;	
 
 };
 
